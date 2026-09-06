@@ -1,0 +1,17 @@
+{
+  "name": "Sleeve",
+  "short_name": "Sleeve",
+  "id": "/sleeve/",
+  "start_url": "/sleeve/",
+  "scope": "/sleeve/",
+  "display": "standalone",
+  "background_color": "#0c0c0e",
+  "theme_color": "#0c0c0e",
+  "icons": [
+    {
+      "src": "/sleeve/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
